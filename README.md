@@ -15,8 +15,9 @@
 
 </br>
 
-
 ____________________________________________________
+
+</br>
 
 :wrench: **Languages and Tools**
 
@@ -48,7 +49,11 @@ ____________________________________________________
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
+</br>
+
 ________________________________________________________
+
+</br>
 
 :iphone: **Get in touch**
 
