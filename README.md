@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Pedro (aka Juki)</h2>
-<h3 align="left">A frontend developer living in Switzerland</h3>
+<h3 align="left">A Full Stack developer living in Switzerland</h3>
 
 </br>
 
