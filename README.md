@@ -1,17 +1,19 @@
-<h2 align="left">Hi, I'm Pedro (aka Juki)</h2>
-<h3 align="left">A Full Stack developer living in Switzerland</h3>
+<h2 align="left">Hi, I'm Pedro (aka Juqui)</h2>
+<h3 align="left">A Front-end developer living in Lausanne, Switzerland</h3>
 
 </br>
 
-🔭  I’m currently working on [FIL](https://filausanne.herokuapp.com), a web-app to help people find social centers in Lausanne
+🤝  Currently working as **Front-end developer** at Media One Group in Lausanne
 
-🤝  I’m looking for **my first job** (or internship) as a frontend developer
+🌱  I’m currently working with **Vue.js**, **Javascript** and **HTML/CSS** 
 
-🌱  I’m currently learning **React** and **Vue.js**
+:musical_note: This [Global Top 10 Songs](vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue.js**
+
+🔭  I also built [FIL](https://filausanne.herokuapp.com), a web-app to help people find social centers in Lausanne using **Ruby on Rails**
 
 🌎  I speak French, English, Portuguese and Spanish
 
-⚡  Fun fact most people know me as **Juki**, short for Juquinha a Brazilian candy [brand](https://vejasp.abril.com.br/wp-content/uploads/2018/07/capa11.jpg)
+⚡  Fun fact most people know me as **Juqui**, short for Juquinha a Brazilian candy [brand](https://vejasp.abril.com.br/wp-content/uploads/2018/07/capa11.jpg)
 
 </br>
 
