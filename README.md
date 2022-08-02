@@ -7,7 +7,7 @@
 
 🌱  I’m currently working with **Vue.js**, **Javascript** and **HTML/CSS** 
 
-:musical_note: This [Global Top 10 Songs](vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue.js**
+:musical_note: This [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue.js**
 
 🔭  I also built [FIL](https://filausanne.herokuapp.com), a web-app to help people find social centers in Lausanne using **Ruby on Rails**
 
