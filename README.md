@@ -5,7 +5,7 @@
 
 🤝  Currently working as **Front-end developer** at Media One Group in Lausanne
 
-🌱  I’m currently working with **Vue.js**, **Typescript**, **Javascript** and **HTML/CSS** 
+🌱  I’m currently working with **Vue.js**, **Typescript** and **HTML/CSS** 
 
 :musical_note: This [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue.js**
 
