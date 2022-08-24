@@ -5,7 +5,7 @@
 
 🤝  Currently working as **Front-end developer** at Media One Group in Lausanne
 
-🌱  I’m currently working with **Vue 3**, *Nuxt 3*,  **Typescript** and **HTML/CSS** 
+🌱  I’m currently working with **Vue 3**, **Nuxt 3**,  **Typescript** and **HTML/CSS** 
 
 :musical_note: This [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue 3** 
 
@@ -29,6 +29,7 @@ ____________________________________________________
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 
 <sup>Frameworks</sup>
+![Nuxt.js](https://img.shields.io/badge/nuxt-%2335495e.svg?style=flat-square&logo=nuxtdotjs&logoColor=%234FC08D)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
