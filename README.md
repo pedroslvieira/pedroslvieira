@@ -5,9 +5,9 @@
 
 🤝  Currently working as **Front-end developer** at Media One Group in Lausanne
 
-🌱  I’m currently working with **Vue.js**, **Typescript** and **HTML/CSS** 
+🌱  I’m currently working with **Vue 3**, *Nuxt 3*,  **Typescript** and **HTML/CSS** 
 
-:musical_note: This [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue.js**
+:musical_note: This [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue 3** 
 
 🔭  I also built [FIL](https://filausanne.herokuapp.com), a web-app to help people find social centers in Lausanne using **Ruby on Rails**
 
