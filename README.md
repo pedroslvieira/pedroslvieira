@@ -14,7 +14,6 @@
 🍬 Fun fact most people know me as **Juqui**, short for Juquinha a Brazilian candy [brand](https://vejasp.abril.com.br/wp-content/uploads/2018/07/capa11.jpg)
 
 </br>
-
 ____________________________________________________
 
 </br>
@@ -31,7 +30,7 @@ ____________________________________________________
 
 🔭 [FIL](https://filausanne.herokuapp.com), a mobile web-app to help people find social centers in Lausanne using **Ruby on Rails**
 
-
+</br>
 ____________________________________________________
 
 </br>
