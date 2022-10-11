@@ -21,6 +21,8 @@ ____________________________________________________
 
 **Projects & Studies**
 
+🎨 [TraceLoops Filter](https://codepen.io/pedroslvieira/pen/zYjxOPJ), ongoing project using Canvas. Inspired in the work of one of my favorite artists [@traceloops](https://www.instagram.com/Traceloops/)
+
 📓 [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Typescript and Vue 3 to build maintainable and scalable code
 
 🎵 [Global Top 10 Songs](https://vue-deezer-v2.herokuapp.com), a PWA that displays the most popular songs from Deezer's API, is one of my first projects using **Vue 3** 
