@@ -19,18 +19,20 @@ ____________________________________________________
 
 </br>
 
-:project: **Projects & Studies**
+💡 **Projects & Studies**
 
-:journal: [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Tzpescript and Vue.js 3, getting the Typescript and Vue 3 to build maintainable and scalable code
-:musical_note: [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), a PWA connected to the Deezer API, is one of my first projects using **Vue 3** 
-🔭  I built [FIL](https://filausanne.herokuapp.com), a mobile web-app to help people find social centers in Lausanne using **Ruby on Rails**
+📓 [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Tzpescript and Vue.js 3, getting the Typescript and Vue 3 to build maintainable and scalable code
+
+🎵 [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), a PWA connected to the Deezer API, is one of my first projects using **Vue 3** 
+
+🔭 [FIL](https://filausanne.herokuapp.com), a mobile web-app to help people find social centers in Lausanne using **Ruby on Rails**
 
 
 ____________________________________________________
 
 </br>
 
-:wrench: **Languages and Tools**
+:wrench: **Languages & Tools**
 
 <sup>Programming Languages</sup>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
