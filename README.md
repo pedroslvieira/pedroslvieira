@@ -19,7 +19,7 @@ ____________________________________________________
 
 </br>
 
-💡 **Projects & Studies**
+**Projects & Studies**
 
 📓 [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Typescript and Vue 3 to build maintainable and scalable code
 
