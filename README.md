@@ -7,15 +7,24 @@
 
 🌱  I really enjoy working with **Vue 3**, **Nuxt 3**,  **Typescript** and **HTML/CSS** 
 
-:musical_note: This [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), connected to the Deezer API, is one of my first projects using **Vue 3** 
 
-🔭  I also built [FIL](https://filausanne.herokuapp.com), a web-app to help people find social centers in Lausanne using **Ruby on Rails**
 
 🌎  I speak French, English, Portuguese and Spanish
 
 ⚡  Fun fact most people know me as **Juqui**, short for Juquinha a Brazilian candy [brand](https://vejasp.abril.com.br/wp-content/uploads/2018/07/capa11.jpg)
 
 </br>
+
+____________________________________________________
+
+</br>
+
+:project: **Projects & Studies**
+
+:journal: [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Tzpescript and Vue.js 3, getting the Typescript and Vue 3 to build maintainable and scalable code
+:musical_note: [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), a PWA connected to the Deezer API, is one of my first projects using **Vue 3** 
+🔭  I built [FIL](https://filausanne.herokuapp.com), a mobile web-app to help people find social centers in Lausanne using **Ruby on Rails**
+
 
 ____________________________________________________
 
