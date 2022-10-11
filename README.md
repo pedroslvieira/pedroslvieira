@@ -21,9 +21,11 @@ ____________________________________________________
 
 💡 **Projects & Studies**
 
-📓 [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Tzpescript and Vue.js 3, getting the Typescript and Vue 3 to build maintainable and scalable code
+📓 [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Typescript and Vue 3 to build maintainable and scalable code
 
-🎵 [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), a PWA connected to the Deezer API, is one of my first projects using **Vue 3** 
+🎵 [Global Top 10 Songs](http://vue-deezer-v2.herokuapp.com), a PWA that displays the most popular songs from Deezer's API, is one of my first projects using **Vue 3** 
+
+🔔 [Notification API](https://github.com/pedroslvieira/notification-api), Ruby on Rails projec to persistant store notifications data, many-to-many relationship between notifications and users
 
 🔭 [FIL](https://filausanne.herokuapp.com), a mobile web-app to help people find social centers in Lausanne using **Ruby on Rails**
 
