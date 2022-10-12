@@ -19,7 +19,7 @@ ____________________________________________________
 
 **Projects & Studies**
 
-🎨 [TraceLoops Filter](https://codepen.io/pedroslvieira/pen/zYjxOPJ), ongoing project using Canvas. Inspired in the work of one of my favorite artists [@traceloops](https://www.instagram.com/Traceloops/)
+🎨 [TraceLoops Filter](https://codepen.io/pedroslvieira/pen/zYjxOPJ), ongoing project using Canvas, I was inspired by the work of [@traceloops](https://www.instagram.com/Traceloops/), one of my favorite artists, to start developing this filter that is the first of many to come
 
 📓 [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Typescript and Vue 3 to build maintainable and scalable code
 
