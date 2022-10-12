@@ -27,9 +27,11 @@ ____________________________________________________
 
 🎵 [Global Top 10 Songs](https://vue-deezer-v2.herokuapp.com), a PWA that displays the most popular songs from Deezer's API, is one of my first projects using **Vue 3** 
 
-🔔 [Notification API](https://github.com/pedroslvieira/notification-api), Ruby on Rails projec to persistant store notifications data, many-to-many relationship between notifications and users
+🔔 [Notification API](https://github.com/pedroslvieira/notification-api), Ruby on Rails project to manage notifications (persistant storage), many-to-many relationship between notifications and users
 
 🔭 [FIL](https://filausanne.herokuapp.com), a mobile web-app to help people find social centers in Lausanne using **Ruby on Rails**
+
+🍀 [LIF](https://lif-kirilbt.herokuapp.com/), an Airbnb-like project built with Ruby on Rails, LIF helps people find plant keepers
 
 </br>
 
