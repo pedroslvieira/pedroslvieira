@@ -3,7 +3,7 @@
 
 </br>
 
-👨‍💻  Currently working as **Front-end developer** at Media One Group in Lausanne
+👨‍💻  Currently working as **Front-end developer** at [Camptocamp](www.camptocamp.com/en) in Lausanne
 
 ⚡  I really enjoy working with **Vue 3**, **Nuxt 3**,  **Typescript** and **HTML/CSS** 
 
