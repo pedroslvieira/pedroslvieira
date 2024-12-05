@@ -17,26 +17,6 @@ ____________________________________________________
 
 </br>
 
-**Projects & Studies**
-
-🎨 [TraceLoops Filter](https://codepen.io/pedroslvieira/pen/zYjxOPJ), ongoing project using Canvas, I was inspired by the work of [@traceloops](https://www.instagram.com/Traceloops/), one of my favorite artists, to start developing this filter that is the first of many to come
-
-📓 [Personal Journal](https://pedroslvieira.github.io/ts-journal/) using Typescript and Vue 3 to build maintainable and scalable components
-
-🎵 [Global Top 10 Songs](https://vue-deezer-v2.herokuapp.com), a PWA that displays the most popular songs from Deezer's API, is one of my first projects using **Vue 3** 
-
-🔔 [Notification API](https://github.com/pedroslvieira/notification-api), Ruby on Rails project to manage notifications (persistant storage), it handles many-to-many relationship between notifications and users
-
-🔭 [FIL](https://filausanne.herokuapp.com), a mobile web-app using **Ruby on Rails** to help people find social centers in Lausanne 
-
-🍀 [LIF](https://lif-kirilbt.herokuapp.com/), an Airbnb-like project built with **Ruby on Rails**, LIF helps people find plant keepers
-
-</br>
-
-____________________________________________________
-
-</br>
-
 :wrench: **Languages & Tools**
 
 <sup>Programming Languages</sup>
