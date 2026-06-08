@@ -5,11 +5,7 @@
 
 👨‍💻  Currently working as **Front-end developer** at [Camptocamp](https://camptocamp.com/en) in Lausanne
 
-⚡  I really enjoy working with **Vue 3**, **Nuxt 3**,  **Typescript** and **HTML/CSS** 
-
 🌎  I speak French, English, Portuguese and Spanish
-
-🍬  Fun fact most people know me as **Juqui**, short for Juquinha a Brazilian candy [brand](https://vejasp.abril.com.br/wp-content/uploads/2018/07/capa11.jpg)
 
 </br>
 
