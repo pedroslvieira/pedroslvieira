@@ -21,7 +21,7 @@ ____________________________________________________
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 
 <sup>Frameworks</sup>
-![Nuxt.js](https://img.shields.io/badge/nuxt-%2335495e.svg?style=flat-square&logo=nuxtdotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/nuxt-%2335495e.svg?style=flat-square&logo=nuxt&logoColor=%234FC08D)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![LitElement](https://img.shields.io/badge/LitElement-%23323330.svg?style=flat-square&logo=lit&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=django&logoColor=white)
