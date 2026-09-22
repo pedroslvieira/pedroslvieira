@@ -1,9 +1,9 @@
 <h2 align="left">Hi, I'm Pedro (aka Juqui)</h2>
-<h3 align="left">A Front-end developer living in Lausanne, Switzerland</h3>
+<h3 align="left">A Full Stack developer living in Lausanne, Switzerland</h3>
 
 </br>
 
-👨‍💻  Currently working as **Front-end developer** at [Camptocamp](https://camptocamp.com/en) in Lausanne
+👨‍💻  Currently working as **Full Stack Developer** at [Camptocamp](https://camptocamp.com/en) in Lausanne
 
 🌎  I speak French, English, Portuguese and Spanish
 
@@ -23,6 +23,8 @@ ____________________________________________________
 <sup>Frameworks</sup>
 ![Nuxt.js](https://img.shields.io/badge/nuxt-%2335495e.svg?style=flat-square&logo=nuxtdotjs&logoColor=%234FC08D)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![LitElement](https://img.shields.io/badge/LitElement-%23323330.svg?style=flat-square&logo=lit&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=django&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
