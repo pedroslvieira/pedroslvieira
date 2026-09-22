@@ -18,7 +18,7 @@ ____________________________________________________
 <sup>Programming Languages</sup>
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=python&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/python-3178C6.svg?style=flat-square&logo=python&logoColor=FFFFFF)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 
 <sup>Frameworks</sup>
