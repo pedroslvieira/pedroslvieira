@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Pedro (aka Juqui)</h2>
+<h2 align="left">Hi, I'm Pedro</h2>
 <h3 align="left">A Full Stack developer living in Lausanne, Switzerland</h3>
 
 </br>
