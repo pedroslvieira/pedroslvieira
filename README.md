@@ -5,7 +5,7 @@
 
 👨‍💻  Currently working as **Full Stack Developer** at [Camptocamp](https://camptocamp.com/en) in Lausanne
 
-🌎  I speak French, English, Portuguese and Spanish
+🌎  I speak French, English and Portuguese.
 
 </br>
 
